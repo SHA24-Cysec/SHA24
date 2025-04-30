@@ -1,0 +1,5 @@
+pip install --upgrade google-api-python-client google-auth google-auth-httplib2 google-auth-oauthlib requests
+
+python3 -m venv venv
+
+.json FIle
